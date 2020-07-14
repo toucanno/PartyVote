@@ -1,2 +1,2 @@
 # PartyVote
-This is the PartyVote Website Repository 
+This is the PartyVote Website Repository.
